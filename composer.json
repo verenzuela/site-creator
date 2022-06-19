@@ -1,0 +1,19 @@
+{
+    "name": "verenzuela/site-creator",
+    "description": "A package to allow a esay way to create a full site with admin panel and front content",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Verenzuela\\SiteCreator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andres Verenzuela",
+            "email": "verenzuela@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.5"
+    }
+}
